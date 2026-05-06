@@ -1,24 +1,14 @@
 <h1 align="center">Olá, bem vindo ao meu perfil!</h1>
 
-###
-
 <p align="center">Me chamo Maicon Araújo, sou estudante de tecnologia, desenvolvimento web e desenvolvimento de sistemas.</p>
-
-###
 
 <h2 align="center">Sobre mim</h2>
 
-###
-
 <p align="center">🎓 Técnico em Desenvolvimento de Sistemas e cursando tecnólogo em ADS na Fatec.<br>💻 Atualmente estudando C++ e Python.<br>🚀 Buscando minha primeira oportunidade de ingressar na área.</p>
-
-###
 
 <br clear="both">
 
 <h2 align="center">Tenho conhecimento em:</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,13 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h3 align="center">👤 Contato</h3>
-
-###
 
 <br clear="both">
 
@@ -55,5 +41,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
