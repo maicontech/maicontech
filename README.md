@@ -42,7 +42,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h3 align="center">👤 Contato</h3>
 
