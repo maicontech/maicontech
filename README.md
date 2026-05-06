@@ -42,18 +42,17 @@
 
 ###
 
-<!-- <br clear="both"> -->
+<br clear="both">
 
 <h3 align="center">👤 Contato</h3>
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="www.linkedin.com/in/maicon-araújo-8868723a2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="maicontech15@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
